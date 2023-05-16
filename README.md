@@ -1,12 +1,12 @@
 <div>
-  <h2 align="center">Arquitetura e Projeto de Software - Design Pattern Facade</h2>
+  <h2 align="center">Arquitetura e Projeto de Software - Design Pattern Flyweight</h2>
 </div>
 
 <div>
   
 ## 🤔 Sobre
   
-  <p>Este projeto tem o intuito de apresentar o padrão de projeto Facade, utilizando a linguagem Java.</p>
+  <p>Este projeto tem o intuito de apresentar o padrão de projeto Flyweight, utilizando a linguagem Java.</p>
   
 ### ⚙ Suporte de primeiro-nível
 
